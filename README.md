@@ -8,4 +8,4 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: Discord: Fares#0557
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I prefer staying home and watching Netflix over Cinema nights.
+- ⚡ Fun fact: I prefer staying home and watching Netflix over Cinema.
