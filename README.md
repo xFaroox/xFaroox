@@ -1,8 +1,11 @@
+<p align="center">
+
+
+
+
+![image](https://user-images.githubusercontent.com/90890759/133757641-03fdf493-dac0-4d74-83ab-1b2b59e470f7.png)
+
 ### Hi there 👋
-
-
-[c]![image](https://user-images.githubusercontent.com/90890759/133757641-03fdf493-dac0-4d74-83ab-1b2b59e470f7.png)[/c]
-
 
 - 🔭 I’m currently working on being an expert in Red team.
 - 🌱 I’m currently learning Pentesting
@@ -12,3 +15,4 @@
 - 📫 How to reach me: Discord: Fares#0557
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I prefer staying home and watching Netflix over Cinema.
+</p>
